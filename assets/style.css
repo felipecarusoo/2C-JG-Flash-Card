@@ -40,7 +40,7 @@ body {
 .cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
-    padding-top: 4px;
+    color: var(--text-color);
 }
 
 .cartao__conteudo__pergunta p {
